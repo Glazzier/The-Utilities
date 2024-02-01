@@ -12,3 +12,6 @@
 ¡Esperamos que encuentres este repositorio útil! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue.
 
 Happy coding! 🐍✨
+
+### Alerta
+The files do not support English… Still
